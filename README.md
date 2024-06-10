@@ -43,15 +43,11 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Arquitetura Limpa - O Guia do Artesão para Estrutura e Design de Software](https://github.com/free-educa/books/blob/main/books/Arquitetura%20Limpa%20-%20O%20Guia%20do%20Artes%C3%A3o%20para%20Estrutura%20e%20Design%20de%20Software%20(Robert%20C.%20Martin)%20(z-lib.org).pdf)
 
-- [Introdução à Arquitetura e Design de Software](https://github.com/free-educa/books/blob/main/books/Introdu%C3%A7%C3%A3o%20%C3%A0%20Arquitetura%20e%20Design%20de%20Software%20-%20Casa%20do%20Codigo.pdf)
-
-- [Introdução à Arquitetura e Design de Software](https://github.com/free-educa/books/blob/main/books/Introdu%C3%A7%C3%A3o%20%C3%A0%20Arquitetura%20e%20Design%20de%20Software.pdf)
-
 - [Introdução a arquitetura e design de software - Uma visão sobre a plataforma JAVA](https://github.com/free-educa/books/blob/main/books/Introdu%C3%A7%C3%A3o%20a%20arquitetura%20e%20design%20de%20software%20-%20Uma%20vis%C3%A3o%20sobre%20a%20plataforma%20JAVA.pdf)
 
-- [Livro de Arquitetura e Organização de Computadores(1)](<https://github.com/free-educa/books/blob/main/books/Livro%20de%20Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores(1).pdf>)
+- [Livro de Arquitetura e Organização de Computadores - 8ª Edição](<https://github.com/free-educa/books/blob/main/books/Livro%20de%20Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores(1).pdf>)
 
-- [Livro de Arquitetura e organização de computadores](https://github.com/free-educa/books/blob/main/books/Livro%20de%20Arquitetura%20e%20organiza%C3%A7%C3%A3o%20de%20computadores.pdf)
+- [Livro de Arquitetura e organização de computadores - 10ª Edição](https://github.com/free-educa/books/blob/main/books/Livro%20de%20Arquitetura%20e%20organiza%C3%A7%C3%A3o%20de%20computadores.pdf)
 
 - [Caixa de Ferramentas DevOps Um guia para construcao, administracao e arquitetura de sistemas modernos](https://github.com/free-educa/books/blob/main/books/Caixa%20de%20Ferramentas%20DevOps%20Um%20guia%20para%20construcao%2C%20administracao%20e%20arquitetura%20de%20sistemas%20modernos%20-%20Casa%20do%20Codigo.pdf)
 
@@ -61,17 +57,13 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 --- Automação:
 ```
 
-- [DevOps Na prática - Entrega de software confiável e automatizada](https://github.com/free-educa/books/blob/main/books/DevOps%20Na%20pr%C3%A1tica%20-%20Entrega%20de%20software%20confi%C3%A1vel%20e%20automatizada.pdf)
-
 - [DevOps na prática - entrega de software confiável e automatizada](https://github.com/free-educa/books/blob/main/books/DevOps%20na%20pr%C3%A1tica%20-%20entrega%20de%20software%20confi%C3%A1vel%20e%20automatizada%20-%20Casa%20do%20Codigo.pdf)
 
-- [Jenkins - Automatize tudo sem complicacoes](https://github.com/free-educa/books/blob/main/books/Jenkins%20-%20%20Automatize%20tudo%20sem%20complicacoes.pdf)
+- [Jenkins - Automatize tudo sem complicacoes](https://github.com/free-educa/books/blob/f926d906f57ff8ecea3084878b4f5de0317b58e3/books/Jenkins%20-%20Automatize%20tudo%20sem%20complica%C3%A7%C3%B5es%20(Casa%20do%20Codigo)%20(z-lib.org).pdf)
 
 - [DevOps nativo de nuvem com Kubernetes](https://github.com/free-educa/books/blob/main/books/DevOps%20nativo%20de%20nuvem%20com%20Kubernetes%20(Justin%20Domingus%20John%20Arundel%20%5BDomingus%20etc.)%20(z-lib.org).pdf)
 
 - [Elasticsearch consumindo dados real time com ELK](https://github.com/free-educa/books/blob/main/books/Elasticsearch%20consumindo%20dados%20real%20time%20com%20ELK%20(Casa%20do%20Codigo)%20(z-lib.org).pdf)
-
-- [Jenkins - Automatize tudo sem complicações](https://github.com/free-educa/books/blob/main/books/Jenkins%20-%20Automatize%20tudo%20sem%20complica%C3%A7%C3%B5es%20(Casa%20do%20Codigo)%20(z-lib.org).pdf)
 
 - [Kubernetes - Tudo sobre orquestração de contêineres](https://github.com/free-educa/books/blob/main/books/Kubernetes%20-%20Tudo%20sobre%20orquestra%C3%A7%C3%A3o%20de%20cont%C3%AAineres%20(Lucas%20Santos)%20(z-lib.org).pdf)
 
@@ -88,8 +80,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 - [Desenvolvimento web com PHP e MySQL](https://github.com/free-educa/books/blob/main/books/Desenvolvimento%20web%20com%20PHP%20e%20MySQL%20-%20Casa%20do%20Codigo.pdf)
 
 - [Dominando JavaScript Com Jquery](https://github.com/free-educa/books/blob/main/books/Dominando%20JavaScript%20Com%20Jquery%20-%20Casa%20do%20Codigo.pdf)
-
-- [Dominando JavaScript Com Jquery ](https://github.com/free-educa/books/blob/main/books/Dominando%20JavaScript%20Com%20Jquery%20.pdf)
 
 - [Livro de PHP](https://github.com/free-educa/books/blob/main/books/Livro%20de%20PHP.pdf)
 
@@ -207,8 +197,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Conhecendo o Adobe Photoshop CS6](https://github.com/free-educa/books/blob/main/books/Conhecendo%20o%20Adobe%20Photoshop%20CS6%20-%20Casa%20do%20Codigo.pdf)
 
-- [Conhecendo o Adobe Photoshop CS6 ](https://github.com/free-educa/books/blob/main/books/Conhecendo%20o%20Adobe%20Photoshop%20CS6%20.pdf)
-
 - [Edicao e organizacao de fotos com Adobe Lightroom](https://github.com/free-educa/books/blob/main/books/Edicao%20e%20organizacao%20de%20fotos%20com%20Adobe%20Lightroom.pdf)
 
 - [Introdução e boas práticas em UX Design](https://github.com/free-educa/books/blob/main/books/Introdu%C3%A7%C3%A3o%20e%20boas%20pr%C3%A1ticas%20em%20UX%20Design%20-%20Casa%20do%20Codigo.pdf)
@@ -219,13 +207,9 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 --- Front-end:
 ```
 
-- [HTML5 e CSS3 - Domine a web do futuro](https://github.com/free-educa/books/blob/main/books/HTML5%20e%20CSS3%20-%20Domine%20a%20web%20do%20futuro.pdf)
-
 - [HTML5_e_CSS3_com_farinha_e_pimenta](https://github.com/free-educa/books/blob/main/books/HTML5_e_CSS3_com_farinha_e_pimenta.pdf)
 
-- [Html5_e_css3_domine_a_web_do_futuro_fran (1)](<https://github.com/free-educa/books/blob/main/books/Html5_e_css3_domine_a_web_do_futuro_fran%20(1).pdf>)
-
-- [html5 e css3 domine a web do futuro](https://github.com/free-educa/books/blob/main/books/html5%20e%20css3%20domine%20a%20web%20do%20futuro%20-%20Casa%20do%20Codigo.pdf)
+- [Html5_e_css3_domine_a_web_do_futuro_fran](<https://github.com/free-educa/books/blob/main/books/Html5_e_css3_domine_a_web_do_futuro_fran%20(1).pdf>)
 
 - [Cody Lindey - Front-End Handbook](https://github.com/free-educa/books/blob/main/books/Cody%20Lindey%20-%20Front-End%20Handbook.pdf)
 
@@ -332,15 +316,11 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Java 8 Pratico Lambdas Streams e os Novos Recursos da Linguagem](https://github.com/free-educa/books/blob/main/books/Java%208%20Pratico%20Lambdas%20Streams%20e%20os%20Novos%20Recursos%20da%20Linguagem%20-%20Casa%20do%20Codigo.pdf)
 
-- [Java 8 Pratico Lambdas Streams e os Novos Recursos da Linguagem](https://github.com/free-educa/books/blob/main/books/Java%208%20Pratico%20Lambdas%20Streams%20e%20os%20Novos%20Recursos%20da%20Linguagem.pdf)
-
 - [Java SE 7 Programmer I O guia para sua certificação Oracle Certified Associate](https://github.com/free-educa/books/blob/main/books/Java%20SE%207%20Programmer%20I%20O%20guia%20para%20sua%20certifica%C3%A7%C3%A3o%20Oracle%20Certified%20Associate%20-%20Casa%20do%20Codigo.pdf)
 
 - [Java e Orientação a Objetos - Caelum, Curso FJ-11](https://github.com/free-educa/books/blob/main/books/Java%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20-%20Caelum%2C%20Curso%20FJ-11.pdf)
 
 - [Java e Orientações a Objetos](https://github.com/free-educa/books/blob/main/books/Java%20e%20Orienta%C3%A7%C3%B5es%20a%20Objetos.pdf)
-
-- [Java para Desenvolvimento Web - Caelum, FJ-21](https://github.com/free-educa/books/blob/main/books/Java%20para%20Desenvolvimento%20Web%20-%20Caelum%2C%20FJ-21.pdf)
 
 - [caelum-algoritmos-estruturas-dados-java-cs14](https://github.com/free-educa/books/blob/main/books/caelum-algoritmos-estruturas-dados-java-cs14.pdf)
 
