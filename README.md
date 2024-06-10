@@ -119,7 +119,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 --- Big data / Data Science:
 ```
 
-- [Data Science do zero\_ Primeiras - Joel Grus](https://github.com/free-educa/books/blob/main/books/Data%20Science%20do%20zero_%20Primeiras%20-%20Joel%20Grus.pdf)
+- [Data Science do zero_- Primeiras - Joel Grus](https://github.com/free-educa/books/blob/main/books/Data%20Science%20do%20zero_%20Primeiras%20-%20Joel%20Grus.pdf)
 
 - [Livro de Big Data - Tecnicas extracao de valor dos dados](https://github.com/free-educa/books/blob/main/books/Livro%20de%20Big%20Data%20-%20Tecnicas%20extracao%20de%20valor%20dos%20dados.pdf)
 
@@ -441,7 +441,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [(Embedded Technology) Chris Nagy - Embedded Systems Design Using the TI MSP430 Series-Newnes (2003)](https://quaq.me/free-livros/embedded-technology-chris-nagy-embedded-systems-design-using-the-ti-msp430-series-newnes-2003)
 
-- [(EngineeringPro collection) Dan Harres (Auth.) - Msp430-based Robot Applications. A Guide to Developing Embedded Systems-Newnes (2013)](<https://github.com/free-educa/books/blob/main/books/(EngineeringPro%20collection)%20Dan%20Harres%20(Auth.)%20-%20Msp430-based%20Robot%20Applications.%20A%20Guide%20to%20Developing%20Embedded%20Systems-Newnes%20(2013).pdf>)
+- [(Engineering - Pro collection) Dan Harres (Auth.) - Msp430-based Robot Applications. A Guide to Developing Embedded Systems-Newnes (2013)](<https://github.com/free-educa/books/blob/main/books/(EngineeringPro%20collection)%20Dan%20Harres%20(Auth.)%20-%20Msp430-based%20Robot%20Applications.%20A%20Guide%20to%20Developing%20Embedded%20Systems-Newnes%20(2013).pdf>)
 
 ```markdown
 --- Startup:
